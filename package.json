@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex2": "node example2.js",
+    "ex3": "node example.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^18.13.0",
+    "minimist": "^1.2.8"
+  }
+}
